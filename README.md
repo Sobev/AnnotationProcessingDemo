@@ -37,7 +37,7 @@ public class PersonBuilder {
  ```java
  /*
  *
- *调用Main函数使用PersonBuilder  虽然会报错  但是运行没有问题
+ *调用Main函数使用PersonBuilder  虽然ide会报红  但是运行没有问题
  *
  */
  Person person  = new PersonBuilder().setAge(25).setName("doge").build();
