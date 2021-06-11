@@ -1,0 +1,3 @@
+com\sobev\BuilderAnnoProcessors.class
+META-INF\services\javax.annotation.processing.Processor
+com\sobev\AnnotationProcessors.class
